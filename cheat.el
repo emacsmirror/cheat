@@ -1,6 +1,6 @@
 ;;; cheat.el --- A handy interface to the command line utility cheat
 
-;; Copyright (c) 2007 Sami Samhuri <sami.samhuri@gmail.com>
+;; Copyright (c) 2007 Sami Samhuri <sami@samhuri.net>
 
 ;; This program is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License
@@ -22,7 +22,7 @@
 ;; utility cheat.
 
 ;; See http://cheat.errtheblog.com for details on cheat itself.
-;; See http://sami.samhuri.net/2007/08/10/cheat-from-emacs for updates.
+;; See http://samhuri.net/blog/2007.08.09-cheat-from-emacs for updates.
 
 ;;; Change Log:
 
